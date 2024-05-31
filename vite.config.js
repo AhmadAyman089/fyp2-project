@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "./",
+  base: "./fyp2-project",
   build: {
     minify: "terser",
   },
